@@ -1,0 +1,12 @@
+{
+  "name": "reduxreselectprofile",
+  "displayName": "reduxreselectprofile",
+  "expo": {
+    "name": "reduxreselectprofile",
+    "slug": "reduxreselectprofile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
