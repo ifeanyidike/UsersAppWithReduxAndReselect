@@ -1,6 +1,6 @@
 workflows:
   react-native-ios:
-    name: React Native iOS
+    name: Users App
     max_build_duration: 120
     instance_type: mac_mini
     environment:
